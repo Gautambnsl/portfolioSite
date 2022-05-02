@@ -5,23 +5,23 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Dr. Akhilesh Das Gupta Institute of Technology and Managmet</i>, 2019-2023
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>Current - 8.4 GPA</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>Campus Ambassador at Coding Ninjas:</i>
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Interacted With Students, Doubt Solving, Task Completion.</li>
+
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>Volunteer for Coding Works in College Society:</i>
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>Interacted With Students, Work on Websites</li>
+          
                     </ul>
                 </li>
             </ul>
